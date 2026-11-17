@@ -1,0 +1,1135 @@
+[
+  {
+    "id": "spinach_cheese_omelette",
+    "title": "Spinach and cheese omelette",
+    "servings": 1,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "id": "eggs",
+        "amount": 3,
+        "unit": "each",
+        "text": "3 eggs"
+      },
+      {
+        "id": "spinach_bagged",
+        "amount": 1,
+        "unit": "cup",
+        "text": "1 cup baby spinach"
+      },
+      {
+        "id": "hard_cheese",
+        "amount": 30,
+        "unit": "g",
+        "text": "30 g grated cheese"
+      },
+      {
+        "id": "butter",
+        "amount": 1,
+        "unit": "tbsp",
+        "text": "1 tbsp butter"
+      }
+    ],
+    "extras": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Whisk the eggs with a pinch of salt and pepper.",
+      "Melt the butter in a nonstick pan over medium heat and wilt the spinach for a minute.",
+      "Pour in the eggs and cook, pulling the edges in, until almost set.",
+      "Scatter over the cheese, fold in half and serve."
+    ]
+  },
+  {
+    "id": "chicken_fried_rice",
+    "title": "Chicken fried rice",
+    "servings": 3,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "id": "rice_white",
+        "amount": 200,
+        "unit": "g",
+        "text": "200 g rice, cooked and cooled"
+      },
+      {
+        "id": "chicken_raw",
+        "amount": 300,
+        "unit": "g",
+        "text": "300 g chicken, diced"
+      },
+      {
+        "id": "carrots",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 carrots, diced"
+      },
+      {
+        "id": "onions",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 onion, chopped"
+      },
+      {
+        "id": "eggs",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 eggs, beaten"
+      },
+      {
+        "id": "garlic",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 cloves garlic, minced"
+      },
+      {
+        "id": "cooking_oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "text": "2 tbsp oil"
+      }
+    ],
+    "extras": [
+      "soy sauce"
+    ],
+    "steps": [
+      "Cook the rice and spread it out to cool; day-old rice fries best.",
+      "Fry the chicken in half the oil over high heat until cooked through, then set aside.",
+      "Add the rest of the oil and stir-fry the onion, carrot and garlic for 3 minutes.",
+      "Push everything aside, scramble the eggs, then add the rice and chicken.",
+      "Season with soy sauce and toss until hot."
+    ]
+  },
+  {
+    "id": "spaghetti_bolognese",
+    "title": "Spaghetti bolognese",
+    "servings": 4,
+    "minutes": 45,
+    "ingredients": [
+      {
+        "id": "pasta_dry",
+        "amount": 400,
+        "unit": "g",
+        "text": "400 g spaghetti"
+      },
+      {
+        "id": "ground_beef",
+        "amount": 500,
+        "unit": "g",
+        "text": "500 g ground beef"
+      },
+      {
+        "id": "onions",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 onion, finely chopped"
+      },
+      {
+        "id": "carrots",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 carrot, finely diced"
+      },
+      {
+        "id": "garlic",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 cloves garlic, minced"
+      },
+      {
+        "id": "canned_tomatoes",
+        "amount": 400,
+        "unit": "g",
+        "text": "1 can (400 g) tomatoes"
+      },
+      {
+        "id": "cooking_oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "text": "1 tbsp oil"
+      }
+    ],
+    "extras": [
+      "salt",
+      "pepper",
+      "dried herbs"
+    ],
+    "steps": [
+      "Soften the onion, carrot and garlic in the oil for 5 minutes.",
+      "Add the beef and brown it, breaking it up as it cooks.",
+      "Stir in the tomatoes and herbs, then simmer for 25 minutes.",
+      "Cook the spaghetti, drain, and toss with the sauce."
+    ]
+  },
+  {
+    "id": "chicken_vegetable_soup",
+    "title": "Chicken and vegetable soup",
+    "servings": 4,
+    "minutes": 50,
+    "ingredients": [
+      {
+        "id": "chicken_raw",
+        "amount": 400,
+        "unit": "g",
+        "text": "400 g chicken"
+      },
+      {
+        "id": "broth_carton",
+        "amount": 1500,
+        "unit": "ml",
+        "text": "1.5 l broth"
+      },
+      {
+        "id": "carrots",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 carrots, sliced"
+      },
+      {
+        "id": "onions",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 onion, chopped"
+      },
+      {
+        "id": "potatoes",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 potatoes, cubed"
+      },
+      {
+        "id": "garlic",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 cloves garlic"
+      }
+    ],
+    "extras": [
+      "salt",
+      "pepper",
+      "bay leaf"
+    ],
+    "steps": [
+      "Bring the broth to a simmer with the onion, garlic and a bay leaf.",
+      "Add the chicken whole and poach for 15 minutes, then lift out and shred.",
+      "Add the carrots and potatoes and simmer until tender, about 15 minutes.",
+      "Return the chicken, season and serve."
+    ]
+  },
+  {
+    "id": "banana_pancakes",
+    "title": "Banana pancakes",
+    "servings": 3,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "id": "bananas",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 ripe bananas, mashed"
+      },
+      {
+        "id": "eggs",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 eggs"
+      },
+      {
+        "id": "flour",
+        "amount": 1,
+        "unit": "cup",
+        "text": "1 cup flour"
+      },
+      {
+        "id": "milk",
+        "amount": 1,
+        "unit": "cup",
+        "text": "1 cup milk"
+      },
+      {
+        "id": "butter",
+        "amount": 2,
+        "unit": "tbsp",
+        "text": "2 tbsp butter, melted, plus more for the pan"
+      }
+    ],
+    "extras": [
+      "baking powder",
+      "sugar"
+    ],
+    "steps": [
+      "Mash the bananas, then whisk in the eggs, milk and melted butter.",
+      "Stir in the flour with 2 tsp baking powder and a spoon of sugar until just combined.",
+      "Cook ladlefuls in a buttered pan over medium heat, flipping when bubbles form."
+    ]
+  },
+  {
+    "id": "banana_bread",
+    "title": "Banana bread",
+    "servings": 8,
+    "minutes": 70,
+    "ingredients": [
+      {
+        "id": "bananas",
+        "amount": 3,
+        "unit": "each",
+        "text": "3 ripe bananas"
+      },
+      {
+        "id": "flour",
+        "amount": 2,
+        "unit": "cup",
+        "text": "2 cups flour"
+      },
+      {
+        "id": "eggs",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 eggs"
+      },
+      {
+        "id": "butter",
+        "amount": 100,
+        "unit": "g",
+        "text": "100 g butter, melted"
+      }
+    ],
+    "extras": [
+      "sugar",
+      "baking soda",
+      "salt"
+    ],
+    "steps": [
+      "Heat the oven to 175 °C (350 °F) and line a loaf tin.",
+      "Mash the bananas and mix in the melted butter, eggs and 150 g sugar.",
+      "Fold in the flour, 1 tsp baking soda and a pinch of salt.",
+      "Bake for about 55 minutes, until a skewer comes out clean."
+    ]
+  },
+  {
+    "id": "spinach_marinara_pasta",
+    "title": "Spinach marinara pasta",
+    "servings": 3,
+    "minutes": 20,
+    "ingredients": [
+      {
+        "id": "pasta_dry",
+        "amount": 300,
+        "unit": "g",
+        "text": "300 g pasta"
+      },
+      {
+        "id": "pasta_sauce",
+        "amount": 2,
+        "unit": "cup",
+        "text": "2 cups pasta sauce"
+      },
+      {
+        "id": "spinach_bagged",
+        "amount": 2,
+        "unit": "cup",
+        "text": "2 cups baby spinach"
+      },
+      {
+        "id": "garlic",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 cloves garlic, sliced"
+      },
+      {
+        "id": "hard_cheese",
+        "amount": 40,
+        "unit": "g",
+        "text": "40 g grated hard cheese"
+      }
+    ],
+    "extras": [
+      "salt"
+    ],
+    "steps": [
+      "Cook the pasta in salted water.",
+      "Meanwhile warm the sauce with the garlic, then stir in the spinach until wilted.",
+      "Toss with the drained pasta and top with the cheese."
+    ]
+  },
+  {
+    "id": "bacon_egg_sandwich",
+    "title": "Bacon and egg sandwich",
+    "servings": 1,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "id": "bread",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 slices bread"
+      },
+      {
+        "id": "bacon",
+        "amount": 3,
+        "unit": "each",
+        "text": "3 strips bacon"
+      },
+      {
+        "id": "eggs",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 egg"
+      },
+      {
+        "id": "mayonnaise",
+        "amount": 1,
+        "unit": "tbsp",
+        "text": "1 tbsp mayonnaise"
+      },
+      {
+        "id": "leafy_greens",
+        "amount": 1,
+        "unit": "cup",
+        "text": "A few lettuce leaves"
+      }
+    ],
+    "extras": [],
+    "steps": [
+      "Fry the bacon until crisp, then fry the egg in the fat.",
+      "Toast the bread and spread with mayonnaise.",
+      "Layer the lettuce, bacon and egg between the slices."
+    ]
+  },
+  {
+    "id": "potato_bacon_hash",
+    "title": "Potato and bacon hash",
+    "servings": 2,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "id": "potatoes",
+        "amount": 3,
+        "unit": "each",
+        "text": "3 potatoes, diced small"
+      },
+      {
+        "id": "bacon",
+        "amount": 150,
+        "unit": "g",
+        "text": "150 g bacon, chopped"
+      },
+      {
+        "id": "onions",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 onion, chopped"
+      },
+      {
+        "id": "eggs",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 eggs"
+      },
+      {
+        "id": "cooking_oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "text": "1 tbsp oil"
+      }
+    ],
+    "extras": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Fry the bacon until crisp and set aside.",
+      "Cook the potatoes in the oil and bacon fat, turning, until golden, about 15 minutes.",
+      "Add the onion for the last 5 minutes, then stir the bacon back in.",
+      "Make two hollows, crack in the eggs, cover and cook until set."
+    ]
+  },
+  {
+    "id": "creamy_tomato_soup",
+    "title": "Creamy tomato soup",
+    "servings": 4,
+    "minutes": 35,
+    "ingredients": [
+      {
+        "id": "canned_tomatoes",
+        "amount": 800,
+        "unit": "g",
+        "text": "2 cans (800 g) tomatoes"
+      },
+      {
+        "id": "onions",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 onion, chopped"
+      },
+      {
+        "id": "garlic",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 cloves garlic"
+      },
+      {
+        "id": "broth_carton",
+        "amount": 500,
+        "unit": "ml",
+        "text": "500 ml broth"
+      },
+      {
+        "id": "milk",
+        "amount": 0.5,
+        "unit": "cup",
+        "text": "½ cup milk"
+      },
+      {
+        "id": "butter",
+        "amount": 2,
+        "unit": "tbsp",
+        "text": "2 tbsp butter"
+      }
+    ],
+    "extras": [
+      "salt",
+      "pepper",
+      "sugar"
+    ],
+    "steps": [
+      "Soften the onion and garlic in the butter for 5 minutes.",
+      "Add the tomatoes and broth and simmer for 20 minutes.",
+      "Blend until smooth, stir in the milk, and season with salt, pepper and a pinch of sugar."
+    ]
+  },
+  {
+    "id": "garlic_butter_fish",
+    "title": "Garlic butter fish with spinach rice",
+    "servings": 2,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "id": "fish_fresh",
+        "amount": 400,
+        "unit": "g",
+        "text": "2 fish fillets (about 400 g)"
+      },
+      {
+        "id": "rice_white",
+        "amount": 150,
+        "unit": "g",
+        "text": "150 g rice"
+      },
+      {
+        "id": "spinach_bagged",
+        "amount": 3,
+        "unit": "cup",
+        "text": "3 cups baby spinach"
+      },
+      {
+        "id": "butter",
+        "amount": 2,
+        "unit": "tbsp",
+        "text": "2 tbsp butter"
+      },
+      {
+        "id": "garlic",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 cloves garlic, minced"
+      }
+    ],
+    "extras": [
+      "lemon",
+      "salt"
+    ],
+    "steps": [
+      "Cook the rice and stir the spinach through at the end so it wilts.",
+      "Season the fish and fry in half the butter for 3 to 4 minutes a side.",
+      "Add the rest of the butter and the garlic to the pan, spoon over the fish, and finish with lemon."
+    ]
+  },
+  {
+    "id": "pork_chops_apples",
+    "title": "Pork chops with apples and onion",
+    "servings": 2,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "id": "pork_chops",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 pork chops"
+      },
+      {
+        "id": "apples",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 apples, sliced"
+      },
+      {
+        "id": "onions",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 onion, sliced"
+      },
+      {
+        "id": "butter",
+        "amount": 1,
+        "unit": "tbsp",
+        "text": "1 tbsp butter"
+      },
+      {
+        "id": "broth_carton",
+        "amount": 1,
+        "unit": "cup",
+        "text": "1 cup broth"
+      }
+    ],
+    "extras": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Season the chops and brown them in the butter, about 4 minutes a side, then set aside.",
+      "Cook the apples and onion in the same pan until soft and golden.",
+      "Add the broth, return the chops and simmer for 5 minutes until cooked through."
+    ]
+  },
+  {
+    "id": "cottage_pie",
+    "title": "Cottage pie",
+    "servings": 4,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "id": "ground_beef",
+        "amount": 500,
+        "unit": "g",
+        "text": "500 g ground beef"
+      },
+      {
+        "id": "potatoes",
+        "amount": 4,
+        "unit": "each",
+        "text": "4 potatoes"
+      },
+      {
+        "id": "onions",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 onion, chopped"
+      },
+      {
+        "id": "carrots",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 carrots, diced"
+      },
+      {
+        "id": "milk",
+        "amount": 0.5,
+        "unit": "cup",
+        "text": "½ cup milk"
+      },
+      {
+        "id": "butter",
+        "amount": 2,
+        "unit": "tbsp",
+        "text": "2 tbsp butter"
+      },
+      {
+        "id": "broth_carton",
+        "amount": 1,
+        "unit": "cup",
+        "text": "1 cup broth"
+      }
+    ],
+    "extras": [
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Boil the potatoes until tender, then mash with the milk and butter.",
+      "Brown the beef with the onion and carrot, add the broth and simmer for 15 minutes.",
+      "Spread the beef in a dish, top with the mash and bake at 200 °C (400 °F) for 20 minutes."
+    ]
+  },
+  {
+    "id": "yogurt_chicken_rice",
+    "title": "Yogurt-marinated chicken with rice",
+    "servings": 3,
+    "minutes": 40,
+    "ingredients": [
+      {
+        "id": "chicken_raw",
+        "amount": 500,
+        "unit": "g",
+        "text": "500 g chicken"
+      },
+      {
+        "id": "yogurt",
+        "amount": 1,
+        "unit": "cup",
+        "text": "1 cup plain yogurt"
+      },
+      {
+        "id": "garlic",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 cloves garlic, grated"
+      },
+      {
+        "id": "rice_white",
+        "amount": 200,
+        "unit": "g",
+        "text": "200 g rice"
+      },
+      {
+        "id": "cooking_oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "text": "1 tbsp oil"
+      }
+    ],
+    "extras": [
+      "paprika",
+      "cumin",
+      "salt"
+    ],
+    "steps": [
+      "Mix the yogurt, garlic, 1 tsp each of paprika and cumin, and a pinch of salt, then coat the chicken.",
+      "Leave it to marinate for at least 15 minutes while the rice cooks.",
+      "Cook the chicken in the oil over medium-high heat until charred and cooked through."
+    ]
+  },
+  {
+    "id": "banana_smoothie",
+    "title": "Banana yogurt smoothie",
+    "servings": 2,
+    "minutes": 5,
+    "ingredients": [
+      {
+        "id": "bananas",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 bananas"
+      },
+      {
+        "id": "yogurt",
+        "amount": 1,
+        "unit": "cup",
+        "text": "1 cup yogurt"
+      },
+      {
+        "id": "milk",
+        "amount": 1,
+        "unit": "cup",
+        "text": "1 cup milk"
+      }
+    ],
+    "extras": [
+      "honey"
+    ],
+    "steps": [
+      "Blend everything until smooth, adding honey to taste."
+    ]
+  },
+  {
+    "id": "chicken_salad",
+    "title": "Chicken salad with croutons",
+    "servings": 2,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "id": "chicken_raw",
+        "amount": 300,
+        "unit": "g",
+        "text": "300 g chicken"
+      },
+      {
+        "id": "leafy_greens",
+        "amount": 4,
+        "unit": "cup",
+        "text": "1 head lettuce, torn"
+      },
+      {
+        "id": "hard_cheese",
+        "amount": 30,
+        "unit": "g",
+        "text": "30 g shaved hard cheese"
+      },
+      {
+        "id": "bread",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 slices bread, cubed"
+      },
+      {
+        "id": "mayonnaise",
+        "amount": 3,
+        "unit": "tbsp",
+        "text": "3 tbsp mayonnaise"
+      },
+      {
+        "id": "garlic",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 clove garlic, grated"
+      },
+      {
+        "id": "cooking_oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "text": "1 tbsp oil"
+      }
+    ],
+    "extras": [
+      "lemon",
+      "salt",
+      "pepper"
+    ],
+    "steps": [
+      "Season and pan-fry the chicken until cooked, then slice.",
+      "Toss the bread cubes in the oil and toast them in the pan until crisp.",
+      "Whisk the mayonnaise with the garlic and a squeeze of lemon.",
+      "Toss the lettuce with the dressing and top with the chicken, croutons and cheese."
+    ]
+  },
+  {
+    "id": "loaded_baked_potatoes",
+    "title": "Loaded baked potatoes",
+    "servings": 4,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "id": "potatoes",
+        "amount": 4,
+        "unit": "each",
+        "text": "4 large potatoes"
+      },
+      {
+        "id": "bacon",
+        "amount": 100,
+        "unit": "g",
+        "text": "100 g bacon"
+      },
+      {
+        "id": "hard_cheese",
+        "amount": 100,
+        "unit": "g",
+        "text": "100 g grated cheese"
+      },
+      {
+        "id": "yogurt",
+        "amount": 0.5,
+        "unit": "cup",
+        "text": "½ cup yogurt or sour cream"
+      }
+    ],
+    "extras": [
+      "salt"
+    ],
+    "steps": [
+      "Bake the potatoes at 200 °C (400 °F) for about 50 minutes until soft.",
+      "Fry the bacon until crisp and crumble it.",
+      "Split the potatoes and fill with cheese, bacon and a spoon of yogurt."
+    ]
+  },
+  {
+    "id": "french_toast",
+    "title": "French toast",
+    "servings": 2,
+    "minutes": 15,
+    "ingredients": [
+      {
+        "id": "bread",
+        "amount": 4,
+        "unit": "each",
+        "text": "4 slices bread"
+      },
+      {
+        "id": "eggs",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 eggs"
+      },
+      {
+        "id": "milk",
+        "amount": 0.5,
+        "unit": "cup",
+        "text": "½ cup milk"
+      },
+      {
+        "id": "butter",
+        "amount": 1,
+        "unit": "tbsp",
+        "text": "1 tbsp butter"
+      }
+    ],
+    "extras": [
+      "cinnamon",
+      "sugar"
+    ],
+    "steps": [
+      "Whisk the eggs, milk and a pinch of cinnamon.",
+      "Soak the bread slices briefly on both sides.",
+      "Fry in the butter over medium heat until golden, and dust with sugar."
+    ]
+  },
+  {
+    "id": "apple_crumble",
+    "title": "Apple crumble",
+    "servings": 6,
+    "minutes": 50,
+    "ingredients": [
+      {
+        "id": "apples",
+        "amount": 4,
+        "unit": "each",
+        "text": "4 apples"
+      },
+      {
+        "id": "flour",
+        "amount": 1,
+        "unit": "cup",
+        "text": "1 cup flour"
+      },
+      {
+        "id": "butter",
+        "amount": 100,
+        "unit": "g",
+        "text": "100 g cold butter"
+      }
+    ],
+    "extras": [
+      "sugar",
+      "cinnamon",
+      "rolled oats"
+    ],
+    "steps": [
+      "Heat the oven to 190 °C (375 °F). Slice the apples into a dish with a spoon of sugar and cinnamon.",
+      "Rub the butter into the flour with 75 g sugar and a handful of oats until crumbly.",
+      "Scatter over the apples and bake for 35 minutes until golden."
+    ]
+  },
+  {
+    "id": "roasted_roots",
+    "title": "Roasted carrots and potatoes",
+    "servings": 4,
+    "minutes": 45,
+    "ingredients": [
+      {
+        "id": "carrots",
+        "amount": 4,
+        "unit": "each",
+        "text": "4 carrots"
+      },
+      {
+        "id": "potatoes",
+        "amount": 4,
+        "unit": "each",
+        "text": "4 potatoes"
+      },
+      {
+        "id": "cooking_oil",
+        "amount": 3,
+        "unit": "tbsp",
+        "text": "3 tbsp oil"
+      },
+      {
+        "id": "garlic",
+        "amount": 3,
+        "unit": "each",
+        "text": "3 cloves garlic, crushed"
+      }
+    ],
+    "extras": [
+      "salt",
+      "dried herbs"
+    ],
+    "steps": [
+      "Heat the oven to 220 °C (425 °F).",
+      "Cut the vegetables into even chunks and toss with the oil, garlic, salt and herbs.",
+      "Roast for 35 minutes, turning once, until browned."
+    ]
+  },
+  {
+    "id": "shakshuka",
+    "title": "Shakshuka",
+    "servings": 2,
+    "minutes": 30,
+    "ingredients": [
+      {
+        "id": "eggs",
+        "amount": 4,
+        "unit": "each",
+        "text": "4 eggs"
+      },
+      {
+        "id": "canned_tomatoes",
+        "amount": 400,
+        "unit": "g",
+        "text": "1 can (400 g) tomatoes"
+      },
+      {
+        "id": "onions",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 onion, sliced"
+      },
+      {
+        "id": "garlic",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 cloves garlic"
+      },
+      {
+        "id": "cooking_oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "text": "2 tbsp oil"
+      },
+      {
+        "id": "bread",
+        "amount": 4,
+        "unit": "each",
+        "text": "Bread, to serve"
+      }
+    ],
+    "extras": [
+      "cumin",
+      "paprika",
+      "salt"
+    ],
+    "steps": [
+      "Soften the onion and garlic in the oil, then stir in 1 tsp each of cumin and paprika.",
+      "Add the tomatoes and simmer for 10 minutes until thick.",
+      "Make four hollows, crack in the eggs, cover and cook until the whites set.",
+      "Serve with the bread."
+    ]
+  },
+  {
+    "id": "bacon_spinach_pasta",
+    "title": "Creamy bacon and spinach pasta",
+    "servings": 3,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "id": "pasta_dry",
+        "amount": 300,
+        "unit": "g",
+        "text": "300 g pasta"
+      },
+      {
+        "id": "bacon",
+        "amount": 150,
+        "unit": "g",
+        "text": "150 g bacon, chopped"
+      },
+      {
+        "id": "spinach_bagged",
+        "amount": 3,
+        "unit": "cup",
+        "text": "3 cups baby spinach"
+      },
+      {
+        "id": "garlic",
+        "amount": 2,
+        "unit": "each",
+        "text": "2 cloves garlic"
+      },
+      {
+        "id": "hard_cheese",
+        "amount": 40,
+        "unit": "g",
+        "text": "40 g grated hard cheese"
+      },
+      {
+        "id": "milk",
+        "amount": 0.5,
+        "unit": "cup",
+        "text": "½ cup milk"
+      }
+    ],
+    "extras": [
+      "pepper"
+    ],
+    "steps": [
+      "Cook the pasta, keeping a cup of the cooking water.",
+      "Fry the bacon until crisp, add the garlic, then the spinach until wilted.",
+      "Stir in the milk and cheese, add the pasta and loosen with the pasta water."
+    ]
+  },
+  {
+    "id": "overnight_oats",
+    "title": "Overnight oats",
+    "servings": 1,
+    "minutes": 5,
+    "ingredients": [
+      {
+        "id": "oat_milk",
+        "amount": 0.5,
+        "unit": "cup",
+        "text": "½ cup oat milk"
+      },
+      {
+        "id": "yogurt",
+        "amount": 0.25,
+        "unit": "cup",
+        "text": "¼ cup yogurt"
+      },
+      {
+        "id": "bananas",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 banana, sliced"
+      }
+    ],
+    "extras": [
+      "rolled oats",
+      "honey"
+    ],
+    "steps": [
+      "Stir ½ cup oats with the oat milk and yogurt in a jar.",
+      "Refrigerate overnight, then top with the banana and a little honey."
+    ]
+  },
+  {
+    "id": "tomato_bruschetta",
+    "title": "Tomato bruschetta",
+    "servings": 2,
+    "minutes": 10,
+    "ingredients": [
+      {
+        "id": "bread",
+        "amount": 4,
+        "unit": "each",
+        "text": "4 slices bread"
+      },
+      {
+        "id": "tomatoes",
+        "amount": 3,
+        "unit": "each",
+        "text": "3 ripe tomatoes"
+      },
+      {
+        "id": "garlic",
+        "amount": 1,
+        "unit": "each",
+        "text": "1 clove garlic"
+      },
+      {
+        "id": "cooking_oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "text": "2 tbsp olive oil"
+      }
+    ],
+    "extras": [
+      "salt"
+    ],
+    "steps": [
+      "Toast the bread and rub it with the cut clove of garlic.",
+      "Chop the tomatoes and mix with the oil and a pinch of salt.",
+      "Spoon onto the toast, and add basil if you have some."
+    ]
+  }
+]
