@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A fridge, centred in the 66dp safe zone of the 108dp adaptive icon canvas. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M42,30h24a4,4 0,0 1,4 4v40a4,4 0,0 1,-4 4h-24a4,4 0,0 1,-4 -4v-40a4,4 0,0 1,4 -4z M38,47h32v3h-32z M44,36h3v7h-3z M44,55h3v12h-3z" />
+</vector>
